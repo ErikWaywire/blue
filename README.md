@@ -1,6 +1,3 @@
 blue
 ====
-$ mkdir ~/Hello-World
-$ cd ~/Hello-World
-$ git init
-$ touch README
+x
