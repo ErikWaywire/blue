@@ -1,0 +1,20 @@
+#bears{
+	margin: auto;
+}
+
+#bearPics{
+	border: 1px solid black;
+	width: auto;
+	padding:none;
+}
+
+body{
+	background-repeat: repeat;
+	text-align: center;
+	background-color: #ccdcff;
+}
+
+img{
+	height: 200px;
+	width: 150px;
+}
